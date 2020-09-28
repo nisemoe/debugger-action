@@ -1,4 +1,4 @@
-name: 'Debugger'
+name: 'Debugger1'
 description: 'Interactive debugger for GitHub Action with tmate.io'
 runs:
   using: 'node12'
